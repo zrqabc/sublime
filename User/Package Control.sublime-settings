@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"HTML5",
+		"jQuery",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
